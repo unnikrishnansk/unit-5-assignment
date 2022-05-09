@@ -1,0 +1,23 @@
+#main, .table{
+    justify-content: center;
+    margin: auto;
+}
+
+.controls{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    justify-content: space-between;
+    padding: 10px;
+}
+tr,td{
+    padding: 5px;
+}
+.table{
+    background-color:rgb(137, 217, 178);
+    width: 50%;
+}
+
+table, th, td {
+    border: 1px solid;
+  }

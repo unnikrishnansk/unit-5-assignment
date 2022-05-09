@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  box-sizing: border-box;
+  background-color: rgb(255, 255, 178);
+  width: 25%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.items {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.circlularButton {
+  background: transparent;
+  border: none;
+  background: rgb(162, 231, 231);
+  border-radius: 50%;
+  font-weight: 700;
+}
